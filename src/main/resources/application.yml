@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Lets connect
+
+
+mock:
+  url: 66e274fc494df9a478e1cb2e.mockapi.io/api/vi/users
+---
